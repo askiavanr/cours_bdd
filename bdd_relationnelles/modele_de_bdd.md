@@ -94,7 +94,7 @@ Rappel rapide
 
 Exemple JSON pour illustrer une base document
 
-`json
+```json
 {
   "id": "student-123",
   "name": "Aïcha",
@@ -127,7 +127,7 @@ Exemple JSON pour illustrer une base document
     "last_updated": "2025-11-01T09:30:00Z"
   }
 }
-`
+```
 
 ---
 
